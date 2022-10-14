@@ -1,7 +1,7 @@
 # Self-Assessment
 
 During the project, our team worked on Stocks predictions for three companies (Blackberry, Google and Netflix).
-I played different roles for the different segments, and I handled the exploration data analysis phase using pandas Jupiter notebook. I scraped data directly from Yahoo Finance and cleaned the data by deleting null values from the data.
+I played different roles for the different segments, and I handled the Data Exploration phase with pandas using Jupyter Notebook. I scraped data directly from Yahoo Finance and cleaned the data by deleting null values from the data.
 I merged the data and used charts to have an insight on the trend and performance of each Company stocks using the historical data.
 
 I was also part of the Database phase by creating the ERD diagram with relationships for our Database table on PostgreSQL.
@@ -27,7 +27,9 @@ We all respect each others time and opinion and whenever we decide to meet virtu
 
 # Summary of the Project
 Using the historical data of three companies in the past five years to predict future stock prices. 
-We used the LSTM model to predict future trend of the three stocks and the model predictions are very close to the actual trends for each stock in predicting future days stock prices.
+
+We used the LSTM model to predict future trends for the three Company's stocks and the model predictions are very close to the actual trends for each stock in predicting future days stock prices.
+
 We also observed there are other factors affecting the stock prices are High inflation rate, interest rates, unemployment rates and an increasing CPI. 
 
  The analysis can predict the volatility of each stock and make comparison to know the company with the highest investment returns. Our analysis will enable potential investors to make informed investment decision.
