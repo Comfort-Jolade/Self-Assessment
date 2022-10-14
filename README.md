@@ -9,7 +9,8 @@ I was also part of the Database phase by creating the ERD diagram with relations
 For the Dashboard visualization, we used JavaScript to create an interactive Data Visualization dashboard based on the Blackberry, Netflix, and Google Stocks. 
 I was able to present both the historical and prediction chart also integrated the Tableau story board page. I also included the link to google chart on the navigation bar.
 The Tableau and the historical charts are very interactive, with a click on the number of days, we can see the trend of each stock performance.
-I am actually proud of my contibution towards the project, one of the task that really challenged me was been able to get the historical cahsrt to respond when the option of days button is cliscked. but I am glab I was able to do it.
+
+I am actually proud of my contribution towards the project, one of the tasks that really challenged me has been able to get the historical chart on the JavaScript Dashboard to respond when the option of days button is clicked. but I am glad I was able to do it.
 
 ![image](https://user-images.githubusercontent.com/104603037/195746508-940a5359-5969-4cf3-a3f1-ce3c5b84d35c.png)
 
